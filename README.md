@@ -8,4 +8,4 @@ Docker is a tool designed to make it easier to create, deploy, and run applicati
 
 ### 01_DOCKERFILES
 
-* learn to create and implement docker files
+* learn to create and implement dockerfiles
